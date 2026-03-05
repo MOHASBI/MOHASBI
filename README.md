@@ -12,6 +12,12 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+<hr style="border: 0; border-top: 2px solid #d0d7de;">
+<h2 align="center">Projects</h2>
+| Project | Description |
+|--------|-------------|
+| [ECS Blue-Green Project](https://github.com/MOHASBI/Automated-Blue-Green-Canary-Deployment-Project) | Production-style AWS deployment using Terraform, ECS Fargate, ALB, WAF, and CodeDeploy with automated CI/CD. |
 
  
