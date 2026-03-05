@@ -17,7 +17,7 @@
 <hr style="border: 0; border-top: 2px solid #d0d7de;">
 <h2 align="center">Projects</h2>
 
-<table>
+<table align="center">
   <tr>
     <th>Project</th>
     <th>Description</th>
@@ -29,7 +29,7 @@
       </a>
     </td>
     <td>
-      Production-style AWS deployment using Terraform, ECS Fargate, ALB, WAF
+      Production-style AWS deployment
     </td>
   </tr>
 </table>
