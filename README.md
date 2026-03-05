@@ -29,7 +29,7 @@
       </a>
     </td>
     <td>
-      Production-style AWS deployment using Terraform, ECS Fargate, ALB, WAF, and CodeDeploy with automated CI/CD.
+      Production-style AWS deployment using Terraform, ECS Fargate, ALB, WAF
     </td>
   </tr>
 </table>
