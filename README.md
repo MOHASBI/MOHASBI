@@ -16,8 +16,22 @@
 </p>
 <hr style="border: 0; border-top: 2px solid #d0d7de;">
 <h2 align="center">Projects</h2>
-| Project | Description |
-|--------|-------------|
-| [ECS Blue-Green Project](https://github.com/MOHASBI/Automated-Blue-Green-Canary-Deployment-Project) | Production-style AWS deployment using Terraform, ECS Fargate, ALB, WAF, and CodeDeploy with automated CI/CD. |
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MOHASBI/Automated-Blue-Green-Canary-Deployment-Project">
+        ECS Blue-Green Deployment
+      </a>
+    </td>
+    <td>
+      Production-style AWS deployment using Terraform, ECS Fargate, ALB, WAF, and CodeDeploy with automated CI/CD.
+    </td>
+  </tr>
+</table>
 
  
