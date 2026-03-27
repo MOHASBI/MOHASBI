@@ -31,6 +31,14 @@
     <td>
       Production-style AWS deployment
     </td>
+    <td>
+      <a href="https://github.com/MOHASBI/Threat-Composer-Project">
+       Simple react SPA on ECS
+      </a>
+    </td>
+    <td>
+      Production-style AWS deployment
+    </td>
   </tr>
 </table>
 
